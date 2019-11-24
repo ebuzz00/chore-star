@@ -1,1 +1,1 @@
-# chore-star
+# Chore Star
